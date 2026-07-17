@@ -16,7 +16,7 @@ timezone:
 
 title: "oxidized-elias's blog" # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Blog that is a write up of my projects rather than video # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Blog where i put more things in depth compared to my videos.
